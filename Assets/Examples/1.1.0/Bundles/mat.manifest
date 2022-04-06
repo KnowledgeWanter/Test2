@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2994222493
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fc9c769d4ca485c2bce0f061f62e5559
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 51a16e16d5113854a16091e54ae5bb0d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/mat_standard_red.mat
+- Assets/Bundles/mat_standard_blue.mat
+Dependencies: []
